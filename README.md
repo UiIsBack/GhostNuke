@@ -9,9 +9,14 @@
 
 
 # Changelogs
+**Done**
 - 14/05/22
 added themes
-
+**Planned**
+- better overall speed
+- better setting spam
+- more options
+- possibly a server nuker as part of it
 Constant Updates!
 ======================================================================================================================
 
