@@ -1,4 +1,15 @@
 # GhostNuke
+#How to use!
+1. open GhostNuke
+2. type token in
+3. select ur option
+4. fill in required info
+5. then do what you desire
+6. enjoy xx
+#Changelogs
+- 14/05/22
+added themes
+
 Constant Updates!
 ======================================================================================================================
 
