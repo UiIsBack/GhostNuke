@@ -1,5 +1,5 @@
-# GhostNuke
-#How to use!
+
+# How to use!
 1. open GhostNuke
 2. type token in
 3. select ur option
